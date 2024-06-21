@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @natalyhh
 - 👀 I’m interested in coding, science, tech, arts and music.
 - 🌱 I’m currently learning Machine Learning.
-- 💞️ I’m looking to collaborate on AI/ML projects.
+- 💞️ I’m looking to collaborate on AI/ML and Renewable Energy projects.
 - 📫 How to reach me nataly.horner@gmail.com
 
 <!---
