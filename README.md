@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @natalyhh
+- 👋 Hi, I’m @nhhorner
 - 👀 I’m interested in coding, science, tech, arts and music.
 - 🌱 I’m currently learning Machine Learning.
 - 💞️ I’m looking to collaborate on AI/ML and Renewable Energy projects.
